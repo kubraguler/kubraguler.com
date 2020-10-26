@@ -1,0 +1,13 @@
+.main-wrapper {
+  display: grid;
+  grid-template-columns: 180px auto;
+  grid-template-rows: 120px auto;
+}
+
+.side {
+  background-color: aquamarine;
+}
+
+.main {
+  background-color: cadetblue;
+}
